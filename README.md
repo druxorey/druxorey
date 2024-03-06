@@ -19,7 +19,7 @@
     	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact"/>
 	</div>
   <br>
-	<div>
+	<div align="center">
 		<img align="center" src="https://github-profile-trophy.vercel.app/?username=druxorey&theme=dracula&row=1&column=6&margin-h=15&margin-w=5&no-bg=true"/>
   </div>
   <br>
