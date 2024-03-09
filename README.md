@@ -22,14 +22,14 @@
 
 <table align="center">
 
-<td style="width:50%;">
+<td width=60%>
 
 * 🚀  I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
 * 🧠  I'm learning Python, Rust and Bash at a professional level.
 * 🤝  I'm open to collaborating on Linux projects, web development, and Python programs.
 
 </td>
-<td style="width:50%; text-align:right; vertical-align:top;">
+<td text-align=right>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/></div>
 </td>
 
