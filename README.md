@@ -23,7 +23,7 @@
 
 </td>
 <td>
-    <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&bg_color=00000000&"/></div>
+    <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/></div>
 </td>
 
 </table>
@@ -51,11 +51,9 @@
 <h2 align="center">Github Stats</h2>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=druxorey&theme=dracula&show_icons=true&count_private=true&bg_color=00000000&"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=druxorey&theme=dracula&show_icons=true&count_private=true&border_color=ff6e96&bg_color=00000000&"/>
 <br>
-
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=druxorey&theme=dracula&hide_border=false&bg_color=00000000&"/>
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=druxorey&theme=dracula&border=ff6e96&background=00000000"/>
 </div>
 
 <!--! Contact With Me !-->
