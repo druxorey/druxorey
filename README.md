@@ -29,7 +29,7 @@
 * 🤝  I'm open to collaborating on Linux projects, web development, and Python programs.
 
 </td>
-<td text-align=right>
+<td text-align=center>
     <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/></div>
 </td>
 
