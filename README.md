@@ -21,8 +21,6 @@
 
 - I'm currently working on a web project called **[CIPAL](https://cipalonline.github.io/)**
 
-- Feel free to reach me out at **guillermogalavisg@gmail.com**
-  
 </td>
 <td>
     <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&bg_color=00000000&"/></div>
