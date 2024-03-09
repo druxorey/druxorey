@@ -1,15 +1,9 @@
-<style>
-h1 {font-size: 2.5em; text-align: center;}
-h2 {font-size: 2.0em; text-align: center;}
-h3 {font-size: 1.0em; text-align: center; margin: 0px 0em 2em 0em;}
-</style>
-
-<h1>Hi, I'm <a href="https://druxorey.github.io/druxorey/">Druxorey</a></h1>
+<h1 align="center">Hi, I'm <a href="https://druxorey.github.io/druxorey/">Druxorey</a></h1>
 
 ![snake](resources/grid-snake.svg)
 
-<h2>About me</h2>
-<h3>I use Arch btw</h3>
+<h2 align="center">About me</h2>
+<h4 align="center">I use Arch btw</h5>
 
 <table>
 <td>
@@ -30,25 +24,24 @@ h3 {font-size: 1.0em; text-align: center; margin: 0px 0em 2em 0em;}
 
 </table>
 
-<h2>Technologies That I Know</h2>
+<h2 align="center">Technologies That I Know</h2>
 
 <div align="center">
 <br>
     <img src="https://skillicons.dev/icons?i=git,html,css,discord,ps,ai,github,linux,bash,md,neovim,py,vscode&perline=14" />
 </div>
 
-<h2>Github stats</h2>
-
+<h2 align="center">Github stats</h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=druxorey&theme=dracula&show_icons=true&count_private=true&no-bg=true"/>
 
-<br>
+<br/>
 
 <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=druxorey&theme=dracula&hide_border=false&no-bg=true"/>
 </div>
 
-<h2>Contact with me</h2>
+<h2 align="center">Contact with me</h2>
 
 <div align="center">
 
