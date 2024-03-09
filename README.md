@@ -38,12 +38,12 @@
 
 <td style="vertical-align: top; width:50%; text-align:center;">
 <h3 align="center">Software and Tools</h3>
-<img src="https://skillicons.dev/icons?i=discord,ps,ai,github,vscode&perline=5"/>
+<img src="https://skillicons.dev/icons?i=discord,ps,ai,github,vscode,,neovim,linux,arch&perline=5"/>
 </td>
 
 <td style="vertical-align: top; width:50%; text-align:center;">
 <h3 align="center">Languages</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,linux,arch,bash,md,neovim,py,anaconda&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,,neovim,py,anaconda&perline=5"/>
 </td>
 
 </table>
