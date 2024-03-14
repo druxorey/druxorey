@@ -48,7 +48,7 @@
 
 <td style="width:50%; text-align:center; vertical-align: top;">
 <h3 align="center">Languages</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,,neovim,py,anaconda&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,,vim,py,anaconda&perline=5"/>
 </td>
 
 </table>
