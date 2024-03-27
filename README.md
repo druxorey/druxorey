@@ -4,7 +4,7 @@
 <h1 align="center">Hi, I'm <a href="https://druxorey.github.io/druxorey/">Druxorey</a></h1>
 <h2 align="center">Computer Science Student</h1>
 
-![snake](resources/grid-snake.svg)
+![snake](static/grid-snake.svg)
 
 <!--! About Me !-->
 
