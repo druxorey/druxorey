@@ -25,7 +25,7 @@
 <td width=60%>
 
 * 🚀  I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
-* 🧠  I'm learning Python, Rust and Bash at a professional level.
+* 🧠  I'm improving in Python, Rust and Bash.
 * 🤝  I'm open to collaborating on Linux projects, web development, and Python programs.
 
 </td>
@@ -48,7 +48,7 @@
 
 <td style="width:50%; text-align:center; vertical-align: top;">
 <h3 align="center">Languages</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,,vim,py,anaconda&perline=5"/>
+<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,cpp,c,go,rust,py&perline=5"/>
 </td>
 
 </table>
