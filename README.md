@@ -25,7 +25,7 @@
 <td width=60%>
 
 * 🚀  I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
-* 🧠  I'm improving in Python, Rust and Bash.
+* 🧠  Learning C++ and Golang.
 * 🤝  I'm open to collaborating on Linux projects, web development, and Python programs.
 
 </td>
