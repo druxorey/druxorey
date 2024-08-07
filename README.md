@@ -1,7 +1,7 @@
 
 <!--! Title !-->
 
-<h1 align="center">Hi, I'm <a href="https://druxorey.github.io/druxorey/">Druxorey</a></h1>
+<h1 align="center">Hi, I'm <a href="https://druxorey.github.io/">Druxorey</a></h1>
 <h2 align="center">Computer Science Student</h1>
 
 ![snake](static/grid-snake.svg)
@@ -24,9 +24,9 @@
 
 <td width=60%>
 
-* 🚀  I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
-* 🧠  Learning C++ and Golang.
-* 🤝  I'm open to collaborating on Linux projects, web development, and Python programs.
+* I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
+* Learning C++ and Golang.
+* I'm open to collaborating on Linux projects, web development, and Python programs.
 
 </td>
 <td text-align=center>
@@ -69,8 +69,7 @@
 
 <div align="center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=1F1F28">](https://druxorey.github.io/druxorey/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=1F1F28" />](https://www.linkedin.com/in/guillermo-galav%C3%ADs-065b4928b/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=1F1F28">](https://druxorey.github.io/)
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=1F1F28" />](mailto:druxorey@gmail.com)
 
 </div>
