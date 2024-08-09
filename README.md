@@ -69,7 +69,8 @@
 
 <div align="center">
 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=1F1F28">](https://druxorey.github.io/)
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=white&color=1F1F28">](https://druxorey.github.io/)
+[<img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=1F1F28">](https://www.reddit.com/user/Druxorey)
 [<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=1F1F28" />](mailto:druxorey@gmail.com)
 
 </div>
