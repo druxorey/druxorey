@@ -1,78 +1,73 @@
+<h1 align="center">Hi, I'm <a  href="https://druxorey.github.io/">Druxorey</a></h1>
+<p align="center">Computer Science Student</p>
 
-<!--! Title !-->
+<img src="static/grid-snake.svg" alt="snake">
 
-<h1 align="center">Hi, I'm <a href="https://druxorey.github.io/">Druxorey</a></h1>
-<h2 align="center">Computer Science Student</h1>
+<hr>
 
-![snake](static/grid-snake.svg)
+<h3 align="center">About Me</h3>
 
-<!--! About Me !-->
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=00000000&">
 
-<h2 align="center">About Me</h2>
+<ul>
+	<li>Currently learning <b>C++</b> and <b>Golang</b> in my free time.</li>
+	<li>I've been a <b>Technical Minecraft</b> player for 10 years now.</li>
+	<li>Open Source Software lover.</li>
+	<li>Using <b>GNU/Linux</b> since 2020.</li>
+	<li> I love <b>Customizing Everything</b> with <a href="https://draculatheme.com/">Dracula</a>.</li>
+	<li>I'm open to collaborating on Linux, Python and C++ projects.</li>
+</ul>
 
-<div style="text-align:justify;">
-    <p>I'm a passionate developer with a deep love for Linux and programming. My journey in the tech world started when I was a child, diving into game development with Unity and GameMaker Studio.</p>
-    <p>Over the years, I've acquired a wealth of skills and experience, always looking to learn and improve. I have a love for aesthetics and always strive to make everything as attractive as possible.</p>
-    <p>My insatiable curiosity leads me to constantly read and modify code, always looking to customize and improve everything to my liking. This passion for customization and continuous improvement is what drives me in my career as a developer.</p>
+<hr>
+
+<h3 align="center">Tecnologies I Know</h3>
+
+<div align="center" width="70%">
+	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html5&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/css-%23.svg?&style=for-the-badge&logo=css3&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/bash-%23.svg?&style=for-the-badge&logo=gnubash&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/markdown-%23.svg?&style=for-the-badge&logo=markdown&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/c++-%23.svg?&style=for-the-badge&logo=cplusplus&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/c languaje-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/golang-%23.svg?&style=for-the-badge&logo=go&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/rust-%23.svg?&style=for-the-badge&logo=rust&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/python-%23.svg?&style=for-the-badge&logo=python&logoColor=F8F8F2&color=44475A">
 </div>
 
-<!--! What Do I Currently Work On? !-->
+<hr>
 
-<h2 align="center">What Do I Currently Work On?</h2>
-
-<table align="center">
-
-<td width=60%>
-
-* I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
-* Learning C++ and Golang.
-* I'm open to collaborating on Linux projects, web development, and Python programs.
-
-</td>
-<td text-align=center>
-    <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/></div>
-</td>
-
-</table>
-
-<!--! Technologies That I Know !-->
-
-<h2 align="center">Technologies That I Know</h2>
-
-<table align="center">
-
-<td style="width:50%; text-align:center; vertical-align: top;">
-<h3 align="center">Software and Tools</h3>
-<img src="https://skillicons.dev/icons?i=discord,ps,ai,github,vscode,,neovim,linux,arch&perline=5"/>
-</td>
-
-<td style="width:50%; text-align:center; vertical-align: top;">
-<h3 align="center">Languages</h3>
-<img src="https://skillicons.dev/icons?i=git,html,css,bash,md,cpp,c,go,rust,py&perline=5"/>
-</td>
-
-</table>
-
-<!--! Github Stats !-->
-
-<h2 align="center">Github Stats</h2>
+<h3 align="center">My latest projects</h3>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=druxorey&theme=dracula&show_icons=true&count_private=true&border_color=ff6e96&bg_color=00000000&"/>
-<br>
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=druxorey&theme=dracula&border=ff6e96&background=00000000"/>
+	<table>
+		<thead align="center">
+			<tr border: none;>
+			<td><b>Projects</b></td>
+			<td><b>Stars</b></td>
+			<td><b>Forks</b></td>
+			<td><b>Issues</b></td>
+			<td><b>Pull requests</b></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+			<td><a href="https://github.com/druxorey/project-redscape"><b>Project Redscape</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
+		</tbody>
+	</table>
 </div>
 
-<!--! Contact With Me !-->
+<hr>
 
-<h2 align="center">Contact With Me</h2>
+<h3 align="center">Contact Me</h3>
 
 <div align="center">
-
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=white&color=1F1F28">](https://druxorey.github.io/)
-[<img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=white&color=1F1F28">](https://www.reddit.com/user/Druxorey)
-[<img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=1F1F28" />](mailto:druxorey@gmail.com)
-
+	<a href="https://druxorey.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=44475A"></a>
+	<a href="https://www.reddit.com/user/Druxorey"><img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=F8F8F2&color=44475A"></a>
+	<a href="mailto:druxorey@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=F8F8F2&color=44475A" /></a>
 </div>
-
-<h4 align="center">i use arch btw</h5>
