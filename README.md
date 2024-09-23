@@ -20,7 +20,7 @@
 
 <hr>
 
-<h3 align="center">Tecnologies I Know</h3>
+<h3 align="center">Technologies I Know</h3>
 
 <div align="center" width="70%">
 	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=44475A">
@@ -57,6 +57,13 @@
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
+			<tr>
+			<td><a href="https://github.com/druxorey/dracula-for-stylus"><b>Dracula For Stylus</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
 		</tbody>
 	</table>
