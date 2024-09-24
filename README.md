@@ -23,14 +23,20 @@
 <h3 align="center">Technologies I Know</h3>
 
 <div align="center" width="70%">
-	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=44475A">
-	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html5&logoColor=F8F8F2&color=44475A">
-	<img src="https://img.shields.io/badge/css-%23.svg?&style=for-the-badge&logo=css3&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/neovim-%23.svg?&style=for-the-badge&logo=neovim&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/git-%23.svg?&style=for-the-badge&logo=git&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/linux-%23.svg?&style=for-the-badge&logo=linux&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/markdown-%23.svg?&style=for-the-badge&logo=markdown&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/html-%23.svg?&style=for-the-badge&logo=html5&logoColor=F8F8F2&color=BD93F9">
+	<img src="https://img.shields.io/badge/css-%23.svg?&style=for-the-badge&logo=css3&logoColor=F8F8F2&color=BD93F9">
+</div>
+
+<div align="center" width="70%">
 	<img src="https://img.shields.io/badge/bash-%23.svg?&style=for-the-badge&logo=gnubash&logoColor=F8F8F2&color=44475A">
-	<img src="https://img.shields.io/badge/markdown-%23.svg?&style=for-the-badge&logo=markdown&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/c++-%23.svg?&style=for-the-badge&logo=cplusplus&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/c languaje-%23.svg?&style=for-the-badge&logo=c&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/golang-%23.svg?&style=for-the-badge&logo=go&logoColor=F8F8F2&color=44475A">
+	<img src="https://img.shields.io/badge/javascript-%23.svg?&style=for-the-badge&logo=javascript&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/rust-%23.svg?&style=for-the-badge&logo=rust&logoColor=F8F8F2&color=44475A">
 	<img src="https://img.shields.io/badge/python-%23.svg?&style=for-the-badge&logo=python&logoColor=F8F8F2&color=44475A">
 </div>
@@ -75,6 +81,6 @@
 
 <div align="center">
 	<a href="https://druxorey.github.io/"><img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=googleearth&logoColor=F8F8F2&color=44475A"></a>
-	<a href="https://www.reddit.com/user/DruxoreyOfficial/"><img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=F8F8F2&color=44475A"></a>
+	<!-- <a href="https://www.reddit.com/user/DruxoreyOfficial/"><img src ="https://img.shields.io/badge/reddit-%23.svg?&style=for-the-badge&logo=reddit&logoColor=F8F8F2&color=44475A"></a>  -->	
 	<a href="mailto:druxorey@gmail.com"><img src="https://img.shields.io/badge/gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=F8F8F2&color=44475A" /></a>
 </div>
