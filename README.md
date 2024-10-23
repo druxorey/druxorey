@@ -58,13 +58,6 @@
 		</thead>
 		<tbody>
 			<tr>
-			<td><a href="https://github.com/druxorey/project-redscape"><b>Project Redscape</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/project-redscape?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			</tr>
-			<tr>
 			<td><a href="https://github.com/druxorey/dracula-for-stylus"><b>Dracula For Stylus</b></a></td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
