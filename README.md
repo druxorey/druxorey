@@ -58,11 +58,18 @@
 		</thead>
 		<tbody>
 			<tr>
-			<td><a href="https://github.com/druxorey/dracula-for-stylus"><b>Dracula For Stylus</b></a></td>
+			<td><a href="https://github.com/druxorey/dracula-for-stylus"><b>DRACULA FOR STYLUS</b></a></td>
 			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
+			<tr>
+			<td><a href="https://github.com/druxorey/druxorey.github.io"><b>DRUXOREY.GITHUB.IO</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
 		</tbody>
 	</table>
