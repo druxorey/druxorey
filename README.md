@@ -11,7 +11,7 @@
 
 <ul>
 	<li>Currently learning <b>C++</b> and <b>Golang</b> in my free time.</li>
-	<li>I've been a <b>Technical Minecraft</b> player for 10 years now.</li>
+	<li>I've been a <b>Technical Minecraft</b> player for 11 years now.</li>
 	<li>Open Source Software lover.</li>
 	<li>Using <b>GNU/Linux</b> since 2020.</li>
 	<li> I love <b>Customizing Everything</b> with <a href="https://draculatheme.com/">Dracula</a>.</li>
