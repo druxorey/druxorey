@@ -71,6 +71,12 @@
 			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
+			<td><a href="https://github.com/druxorey/terplay"><b>TERPLAY</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			</tr>
 		</tbody>
 	</table>
 </div>
