@@ -65,17 +65,18 @@
 			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
 			<tr>
-			<td><a href="https://github.com/druxorey/druxorey.github.io"><b>DRUXOREY.GITHUB.IO</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/druxorey.github.io?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><a href="https://github.com/druxorey/ucv-ayp"><b>UCV-AYP</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
-			<td><a href="https://github.com/druxorey/terplay"><b>TERPLAY</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/terplay?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<tr>
+			<td><a href="https://github.com/druxorey/ucv-ayed"><b>UCV-AYED</b></a></td>
+			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
+			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
 			</tr>
 		</tbody>
 	</table>
