@@ -43,47 +43,6 @@
 
 <hr>
 
-<h3 align="center">My latest projects</h3>
-
-<div align="center">
-	<table>
-		<thead align="center">
-			<tr border: none;>
-			<td><b>Projects</b></td>
-			<td><b>Stars</b></td>
-			<td><b>Forks</b></td>
-			<td><b>Issues</b></td>
-			<td><b>Pull requests</b></td>
-			</tr>
-		</thead>
-		<tbody>
-			<tr>
-			<td><a href="https://github.com/druxorey/dracula-for-stylus"><b>DRACULA FOR STYLUS</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/dracula-for-stylus?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			</tr>
-			<tr>
-			<td><a href="https://github.com/druxorey/ucv-ayp"><b>UCV-AYP</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/ucv-ayp?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			</tr>
-			<tr>
-			<td><a href="https://github.com/druxorey/ucv-ayed"><b>UCV-AYED</b></a></td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Forks" src="https://img.shields.io/github/forks/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Issues" src="https://img.shields.io/github/issues/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/druxorey/ucv-ayed?style=for-the-badge&labelColor=44475A&color=BD93F9"/></td>
-			</tr>
-		</tbody>
-	</table>
-</div>
-
-<hr>
-
 <h3 align="center">Contact Me</h3>
 
 <div align="center">
