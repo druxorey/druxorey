@@ -3,12 +3,12 @@
 <img align="right" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=282A36ff&">
 
 <ul>
-	<li>Currently studying Computer Science.</li>
-	<li>I've been a <b>Technical Minecraft</b> since 2014.</li>
+	<li>Currently studying Computer Science</li>
+	<li>I've been a <b>Technical Minecraft</b> since 2014</li>
 	<li>Open Source Software lover.</li>
-	<li>Using <b>GNU/Linux</b> since 2020.</li>
-	<li> I love <b>Customizing Everything</b> with <a href="https://draculatheme.com/">Dracula</a>.</li>
-	<li>I'm open to collaborating on Linux, Python and C++ projects.</li>
+	<li>Passionate about <b>Homelabbing</b> and self-hosting</li>
+	<li>I love <b>Customizing Everything</b> with <a href="https://draculatheme.com/">Dracula</a></li>
+	<li>I'm open to collaborating on Linux, Python and C++ projects</li>
 </ul>
 
 <h2 align="center">Technologies I Know</h2>
