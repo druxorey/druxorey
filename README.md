@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a  href="https://druxorey.github.io/">Druxorey</a></h1>
 
-<img align="right" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=6&theme=dracula&layout=compact&border_color=44475A&bg_color=282A36ff&">
+<img align="right" width="32%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Druxorey&langs_count=6&theme=dracula&layout=compact&border_color=191a21&bg_color=191a21&">
 
 <ul>
 	<li>Currently studying Computer Science</li>
